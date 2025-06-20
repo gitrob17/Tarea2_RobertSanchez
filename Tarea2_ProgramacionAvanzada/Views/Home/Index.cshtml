@@ -1,0 +1,33 @@
+﻿@model List<Tarea2_ProgramacionAvanzada.Models.DestinoCalificacion>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <h2>Resultados encuesta</h2>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Posición</th>
+                <th>Destino</th>
+                <th>Clasificación</th>
+                <th>Diferencia</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Posicion</td>
+                    <td>@item.Nombre</td>
+                    <td>@item.Clasificacion</td>
+                    <td>@item.DiferenciaPorcentual</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="@Url.Action("Agregar", "Home")" class="btn btn-primary">Agregar</a>
+
+</main>

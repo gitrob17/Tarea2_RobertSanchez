@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|c:\\users\\robert\\source\\repos\\tarea2_programacionavanzada\\tarea2_programacionavanzada\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|solutionrelative:tarea2_programacionavanzada\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|c:\\users\\robert\\source\\repos\\tarea2_programacionavanzada\\tarea2_programacionavanzada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|solutionrelative:tarea2_programacionavanzada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|c:\\users\\robert\\source\\repos\\tarea2_programacionavanzada\\tarea2_programacionavanzada\\models\\encuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|solutionrelative:tarea2_programacionavanzada\\models\\encuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|c:\\users\\robert\\source\\repos\\tarea2_programacionavanzada\\tarea2_programacionavanzada\\models\\destinocalificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|solutionrelative:tarea2_programacionavanzada\\models\\destinocalificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|c:\\users\\robert\\source\\repos\\tarea2_programacionavanzada\\tarea2_programacionavanzada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|solutionrelative:tarea2_programacionavanzada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|c:\\users\\robert\\source\\repos\\tarea2_programacionavanzada\\tarea2_programacionavanzada\\app_data\\destinos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{441448D5-A854-4F99-B63B-ED88039E1046}|Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada.csproj|solutionrelative:tarea2_programacionavanzada\\app_data\\destinos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Views\\Home\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Tarea2_ProgramacionAvanzada\\Views\\Home\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Views\\Home\\Crear.cshtml*",
+              "RelativeToolTip": "Tarea2_ProgramacionAvanzada\\Views\\Home\\Crear.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T22:03:30.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Models\\Encuesta.cs",
+              "RelativeDocumentMoniker": "Tarea2_ProgramacionAvanzada\\Models\\Encuesta.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Models\\Encuesta.cs",
+              "RelativeToolTip": "Tarea2_ProgramacionAvanzada\\Models\\Encuesta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:24:38.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tarea2_ProgramacionAvanzada\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tarea2_ProgramacionAvanzada\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:57:04.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tarea2_ProgramacionAvanzada\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Tarea2_ProgramacionAvanzada\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T17:49:52.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestinoCalificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Models\\DestinoCalificacion.cs",
+              "RelativeDocumentMoniker": "Tarea2_ProgramacionAvanzada\\Models\\DestinoCalificacion.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\Models\\DestinoCalificacion.cs",
+              "RelativeToolTip": "Tarea2_ProgramacionAvanzada\\Models\\DestinoCalificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:46:08.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "destinos.json",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\App_Data\\destinos.json",
+              "RelativeDocumentMoniker": "Tarea2_ProgramacionAvanzada\\App_Data\\destinos.json",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\Tarea2_ProgramacionAvanzada\\Tarea2_ProgramacionAvanzada\\App_Data\\destinos.json",
+              "RelativeToolTip": "Tarea2_ProgramacionAvanzada\\App_Data\\destinos.json",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T17:43:45.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

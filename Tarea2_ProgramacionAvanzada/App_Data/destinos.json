@@ -1,0 +1,128 @@
+[
+  {
+    "Nombre": "Madrid",
+    "Clasificacion": 12.28,
+    "Posicion": 5,
+    "DiferenciaPorcentual": "+1,1%"
+  },
+  {
+    "Nombre": "París",
+    "Clasificacion": 16.5,
+    "Posicion": 2,
+    "DiferenciaPorcentual": "+10,99%"
+  },
+  {
+    "Nombre": "Buenos Aires",
+    "Clasificacion": 9.34,
+    "Posicion": 6,
+    "DiferenciaPorcentual": "+2,98%"
+  },
+  {
+    "Nombre": "Nueva York",
+    "Clasificacion": 13.36,
+    "Posicion": 4,
+    "DiferenciaPorcentual": "+1,32%"
+  },
+  {
+    "Nombre": "Munich",
+    "Clasificacion": 27.33,
+    "Posicion": 1,
+    "DiferenciaPorcentual": "0%"
+  },
+  {
+    "Nombre": "Roma",
+    "Clasificacion": 15.15,
+    "Posicion": 3,
+    "DiferenciaPorcentual": "+1,87%"
+  },
+  {
+    "Nombre": "Bangkok",
+    "Clasificacion": 0.0,
+    "Posicion": 11,
+    "DiferenciaPorcentual": "+0,51%"
+  },
+  {
+    "Nombre": "Londres",
+    "Clasificacion": 0.0,
+    "Posicion": 12,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Singapur",
+    "Clasificacion": 0.0,
+    "Posicion": 13,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Estambul",
+    "Clasificacion": 0.0,
+    "Posicion": 14,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Dubai",
+    "Clasificacion": 0.0,
+    "Posicion": 15,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Barcelona",
+    "Clasificacion": 0.0,
+    "Posicion": 16,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Milán",
+    "Clasificacion": 0.0,
+    "Posicion": 17,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Viena",
+    "Clasificacion": 0.0,
+    "Posicion": 18,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Shanghai",
+    "Clasificacion": 0.0,
+    "Posicion": 19,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Ámsterdam",
+    "Clasificacion": 1.91,
+    "Posicion": 7,
+    "DiferenciaPorcentual": "+7,54%"
+  },
+  {
+    "Nombre": "Taipei",
+    "Clasificacion": 1.21,
+    "Posicion": 9,
+    "DiferenciaPorcentual": "+0,22%"
+  },
+  {
+    "Nombre": "Tokio",
+    "Clasificacion": 0.0,
+    "Posicion": 20,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Riad",
+    "Clasificacion": 1.43,
+    "Posicion": 8,
+    "DiferenciaPorcentual": "+0,49%"
+  },
+  {
+    "Nombre": "Los Ángeles",
+    "Clasificacion": 0.99,
+    "Posicion": 20,
+    "DiferenciaPorcentual": "+0%"
+  },
+  {
+    "Nombre": "Hong Kong",
+    "Clasificacion": 0.5,
+    "Posicion": 10,
+    "DiferenciaPorcentual": "+0,72%"
+  }
+]

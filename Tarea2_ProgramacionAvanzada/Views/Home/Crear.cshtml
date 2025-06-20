@@ -1,0 +1,83 @@
+﻿@model Tarea2_ProgramacionAvanzada.Models.Encuesta
+
+@{
+    ViewBag.Title = "Encuesta";
+}
+
+<h2>Encuesta</h2>
+
+
+@using (Html.BeginForm("", "", FormMethod.Post, new { id = "formEncuesta" }))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Nombre)
+        @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control", placeholder = "Ingrese su nombre" })
+        @Html.ValidationMessageFor(m => m.Nombre, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Apellido)
+        @Html.TextBoxFor(m => m.Apellido, new { @class = "form-control", placeholder = "Primer Apellido" })
+        @Html.ValidationMessageFor(m => m.Apellido, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Pais)
+        @Html.DropDownListFor(m => m.Pais, (SelectList)ViewBag.Paises, "-- Seleccione un país --", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Pais, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Rol)
+        @Html.DropDownListFor(m => m.Rol, (SelectList)ViewBag.Roles, "-- Seleccione un rol --", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Rol, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.DestinoPrimario)
+        @Html.DropDownListFor(m => m.DestinoPrimario, (SelectList)ViewBag.Destinos, "-- Seleccione destino primario --", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.DestinoPrimario, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.DestinoSecundario)
+        @Html.DropDownListFor(m => m.DestinoSecundario, (SelectList)ViewBag.Destinos, "-- Seleccione destino secundario --", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.DestinoSecundario, "", new { @class = "text-danger" })
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-success">Guardar</button>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+        $(document).ready(function () {
+            $('#formEncuesta').submit(function (e) {
+                e.preventDefault();
+
+                var form = $(this);
+
+                if (!form.valid()) {
+                    return;
+                }
+
+                $.ajax({
+                    url: '@Url.Action("Crear")',
+                    type: 'POST',
+                    data: form.serialize(),
+ 
+                    success: function (response) {
+                        if (response.success) {
+                                window.location.href = '@Url.Action("Index")';
+                        }
+                    },
+                    error: function () {
+                        alert("Ocurrió un error al enviar la encuesta.");
+                    }
+                });
+            });
+        });
+    </script>
+}
