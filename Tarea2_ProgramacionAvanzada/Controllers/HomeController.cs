@@ -32,13 +32,15 @@ namespace Tarea2_ProgramacionAvanzada.Controllers
             {
                 topDestinos[i].Posicion = i + 1;
 
-                if (i == 0)
-                    topDestinos[i].DiferenciaPorcentual = "0%";
-                else
+                if (i < topDestinos.Count - 1)
                 {
-                    double diferencia = Math.Round(topDestinos[i - 1].Clasificacion - topDestinos[i].Clasificacion, 2);
+                    double diferencia = Math.Round(topDestinos[i].Clasificacion - topDestinos[i + 1].Clasificacion, 2);
                     string signo = diferencia >= 0 ? "+" : "-";
                     topDestinos[i].DiferenciaPorcentual = $"{signo}{Math.Abs(diferencia)}%";
+                }
+                else
+                {
+                    topDestinos[i].DiferenciaPorcentual = "0%";
                 }
             }
             return View(topDestinos);
